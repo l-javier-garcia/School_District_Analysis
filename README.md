@@ -6,7 +6,7 @@ This study was initiated due to suspicions of academic dishonety of the Thomas H
 <!-- Results: Using bulleted lists and images of DataFrames as support, address the following questions.-->
 
 ###### How is the district summary affected?
-!(https://github.com/l-javier-garcia/new-repo/blob/main/Original%20district%20analysis.png)
+![Original district summary](https://github.com/l-javier-garcia/new-repo/blob/main/Original%20district%20analysis.png)
 ###### How is the school summary affected?
 
 ###### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
