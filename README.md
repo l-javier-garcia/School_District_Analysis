@@ -23,6 +23,6 @@ The spending doesn't show an immediate effect but it will definitely hurt next y
 ######  ·How does replacing the ninth-grade scores affect the Scores by school size
 School size was not affected much since we didn't really substract the 9th graders out of the roster.
 ######  ·How does replacing the ninth-grade scores affect the Scores by school type
-
+It made the district schools rate lower than charter schools.
 ## Summary
 <!-- Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.-->
